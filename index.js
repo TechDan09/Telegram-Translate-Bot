@@ -49,6 +49,3 @@ bot.command('translate', (ctx) => {
 
 // bot.launch()
 module.exports = bot
-
-// afternoon-spire-94412
-// https://afternoon-spire-94412.herokuapp.com/ | https://git.heroku.com/afternoon-spire-94412.git
