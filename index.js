@@ -23,7 +23,7 @@ const translateText = async (text, targetLanguage) => {
 		return response;
 	} catch (error) {
 		console.log(`Error at translateText --> ${error}`);
-		return 0;
+		return `Please reply on text only`;
 	}
 };
 
